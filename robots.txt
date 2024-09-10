@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iphinces.github.io/sitemap.html.gz
+Sitemap: https://iphinces.github.io/app/sitemap.html.gz
+Sitemap: https://iphinces.github.io/assets/sitemap.html.gz
+Sitemap: https://iphinces.github.io/css/sitemap.html.gz
+Sitemap: https://iphinces.github.io/includes/sitemap.html.gz
+Sitemap: https://iphinces.github.io/item/sitemap.html.gz
+Sitemap: https://iphinces.github.io/src/sitemap.html.gz
